@@ -118,4 +118,4 @@ if __name__ == "__main__":
     t.start()
     app.run(host="0.0.0.0", port=10000)
 
-send_discord_message("🚀 Bot just went live on Render and is connected!")
+send_discord("🚀 Bot just went live on Render and is connected!")
